@@ -1,4 +1,4 @@
-# 
+# Advanced AI leaf disease detection system templates. Featuring model-training and explainable-AI — optimized for maximum performance.
 
 
 
